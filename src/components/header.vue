@@ -1,7 +1,7 @@
 <template>
   <header id="header">
     <div class="left">
-      <router-link to="/"><img id="logo" src="../assets/icon_154-white.png">HR</router-link>
+      <router-link to="/"><img id="logo" src="../assets/icon_154-white.png">Research</router-link>
     </div>
     <div class="center">
       <router-link to="/">Monetizer</router-link>

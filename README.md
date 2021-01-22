@@ -1,4 +1,4 @@
-# HR Monetizer
+# Research Monetizer
 
 natural collaboration engine / social monetization protocol - PoC
 
